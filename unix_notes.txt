@@ -105,3 +105,5 @@
    49  ll
    50  history > moving_around.txt
    51  history >> moving_around.txt
+   # Hidden folder where the staging area and commits live
+   52  .git/
